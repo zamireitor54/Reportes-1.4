@@ -56,7 +56,6 @@
   width: 100%;
   min-height: 540px;
   overflow: visible;
-  /* Espacio para flechas a los costados, pero sin achicar el contenido */
   padding: 0;
   box-sizing: border-box;
 }
